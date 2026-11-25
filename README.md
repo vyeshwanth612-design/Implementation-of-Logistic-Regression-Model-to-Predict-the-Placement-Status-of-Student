@@ -14,7 +14,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 4. 1. Predict the student's placement status using the predict() function and display the result.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.linear_model import LogisticRegression
